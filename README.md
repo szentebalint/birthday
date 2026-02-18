@@ -2,6 +2,6 @@
 clone -> enter directory -> instal dependencies and modules -> run it [commands below]
 
 ```
-npm install
+npm i
 npm run dev
 ```
